@@ -4,9 +4,8 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 
 ## About Me
 
-- 🌱 Learning the DevOps dance moves.
-- 💻 Command-line ninja in the making (😊LOL).
-- 🔧 Git is my jam, still groovin' with it.
+- 🌱 Learning the DevOps .
+- 💻 Command-line in the making (😊LOL).
 - 😄 Pronouns: He/Him.
 - 📫 Hit me up: ravishankarrajupalepu@gmail.com.
 

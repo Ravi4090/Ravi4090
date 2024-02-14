@@ -7,7 +7,7 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 - 🌱 Learning the DevOps .
 - 💻 Command-line in the making (😊LOL).
 - 😄 Pronouns: He/Him.
-- 📫 Hit me up: ravishankarrajupalepu@gmail.com.
+- 📫 Hit me up: rajupalepuravishankar@gmail.com.
 
 ## Skills
 

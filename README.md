@@ -12,7 +12,10 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 ## Skills
 
 - 🐧 Mastering Linux
-- 🔄 Git (Currently on a git journey!)
+- 🔄 Git and Github
+- Jenkins
+- AWS Fundamentals (EC2 , VPC , RDS , ELB , ASG , S3)
+- Docker (Currently on a the journey!)
 
 ## Fun Fact
 

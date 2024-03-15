@@ -1,6 +1,8 @@
 # Yo, what's up? 👋
 
-I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome to my coding playground!
+<h1 align="center">I'm Ravi Shankar Rajupalepu</h1>
+
+<h3 align="center">A passionate DevOps Enthusiast from India Welcome to my Playground</h3>
 
 ## About Me
 

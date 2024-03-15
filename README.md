@@ -20,12 +20,12 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 ## Fun Fact
 
 Did you know reading this bio was probably the most fun you've had in a minute? Thanks for vibing with me! 😄
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ravi shankar rajupalepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi shankar rajupalepu" height="30" width="40" /></a>
 </p>
-
+##
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

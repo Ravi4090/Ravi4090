@@ -7,7 +7,7 @@
 ## About Me
 
 - 🌱 Learning the DevOps .
-- 
+  
 - 🌱 I’m currently learning **Docker , kubernetes , Ansible**
 
 - 📝 I regularly write articles on [https://deploydynamo.blogspot.com/](https://deploydynamo.blogspot.com/)

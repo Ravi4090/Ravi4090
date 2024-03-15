@@ -17,16 +17,14 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 - AWS Fundamentals (EC2 , VPC , RDS , ELB , ASG , S3)
 - Docker (Currently on a the journey!)
 
-## Fun Fact
 
-Did you know reading this bio was probably the most fun you've had in a minute? Thanks for vibing with me! 😄
-##
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ravi shankar rajupalepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi shankar rajupalepu" height="30" width="40" /></a>
 </p>
-##
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools
+
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -80,3 +78,8 @@ Did you know reading this bio was probably the most fun you've had in a minute? 
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
     </a>
 </p>
+
+
+## Fun Fact
+
+Did you know reading this bio was probably the most fun you've had in a minute? Thanks for vibing with me! 😄

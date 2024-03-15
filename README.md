@@ -5,17 +5,16 @@ I'm Ravi Shankar, a DevOps geek from the heart of Andhra Pradesh, India. Welcome
 ## About Me
 
 - 🌱 Learning the DevOps .
-- 💻 Command-line in the making (😊LOL).
-- 😄 Pronouns: He/Him.
-- 📫 Hit me up: rajupalepuravishankar@gmail.com.
+- 
+- 🌱 I’m currently learning **Docker , kubernetes , Ansible**
 
-## Skills
+- 📝 I regularly write articles on [https://deploydynamo.blogspot.com/](https://deploydynamo.blogspot.com/)
 
-- 🐧 Mastering Linux
-- 🔄 Git and Github
-- Jenkins
-- AWS Fundamentals (EC2 , VPC , RDS , ELB , ASG , S3)
-- Docker (Currently on a the journey!)
+- 💬 Ask me about **Linux , Version Control , CI/CD , Selinum**
+
+- 😄 Pronouns: He/Him. 
+
+- 📫 How to reach me **rajupalepuravishankar@gmail.com**
 
 
 ## Connect with me

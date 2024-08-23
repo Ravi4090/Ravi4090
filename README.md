@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://deploydynamo.blogspot.com/](https://deploydynamo.blogspot.com/)
 
-- 💬 Ask me about **Linux , Version Control , CI/CD , Selinum**
+- 💬 Ask me about **Linux , Version Control , CI/CD , Selinum , Docker , kubernetes , Ansible**
 
 - 😄 Pronouns: He/Him. 
 
